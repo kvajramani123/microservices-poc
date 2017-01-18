@@ -3,4 +3,4 @@ server:
    instance: localhost
    port: 8000
 
-message: My World!
+message: Updated
