@@ -1,6 +1,6 @@
 #define reservation-server properties
 server:
    instance: localhost
-   port: 800
+   port: 8000
 
 message: My World!
