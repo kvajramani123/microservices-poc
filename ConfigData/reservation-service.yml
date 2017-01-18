@@ -1,5 +1,4 @@
 #define reservation-server properties
-
 config:
    instance: localhost
    port: 8181
