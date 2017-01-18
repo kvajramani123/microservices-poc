@@ -4,7 +4,7 @@ spring:
     server:
       git:
         uri: https://github.com/techyvenki/microservices-poc.git
-        search-paths: configdata
+        search-paths: ConfigData
 
 server:
   port: 8181
