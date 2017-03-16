@@ -3,8 +3,8 @@ spring:
    config:
     server:
       git:
-        uri: https://github.com/techyvenki/microservices-poc.git
+        uri: https://github.com/kvajrmani123/MyRepo.git
         search-paths: ConfigData
 
 server:
-  port: 8181
+  port: 9090
